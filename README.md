@@ -5,5 +5,5 @@
 
   <br>
 
-  <img src="https://skillicons.dev/icons?i=java,python,django,fastapi,typescript,react,mysql,docker,aws,linux,neovim&perline=11" alt="Java, Python, Django, FastAPI, TypeScript, React, MySQL, Docker, AWS, Linux and Neovim">
+  <img src="https://skillicons.dev/icons?i=java,python,django,fastapi,typescript,react,next,mysql,docker,aws,neovim&perline=11" alt="Java, Python, Django, FastAPI, TypeScript, React, Next, MySQL, Docker, AWS, and Neovim">
 </div>
