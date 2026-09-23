@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <samp>backend • frontend • machine learning • cybersecurity</samp>
+    <samp>fullstack • machine learning • cybersecurity</samp>
   </p>
 
   <br>
